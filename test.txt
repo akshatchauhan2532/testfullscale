@@ -1,5 +1,5 @@
 here is the first test line
 
-lets conflict 
+lets conflict new one 
 
 this is the second ork on this branch 
